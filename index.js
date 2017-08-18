@@ -41,6 +41,16 @@ const distribute = (camareiros, camaristas) => {
   return distribute(camareiros, camaristas);
 };
 
+const printResult = (camareiros) => {
+  camareiros.forEach((camareiro) => {
+    console.log('\n');
+    console.log(`O camareiro(a): ${camareiro.nome}\n`);
+    camareiro.protegidos.forEach((protegido) => {
+      console.log(`\t-${protegido}`);
+    });
+  });
+};
+
 const start = () => {
   const arrayCamareiros = JSON.parse(fs.readFileSync('./camareiros.json', 'utf8'));
   const camaristas = JSON.parse(fs.readFileSync('./camaristas.json', 'utf8'));
@@ -48,7 +58,7 @@ const start = () => {
   let camareiros = buildCamareiros(arrayCamareiros);
   
   const result = distribute(camareiros, camaristas);
-  console.log(result);
+  printResult(result);
 };
 
 start();
