@@ -41,6 +41,19 @@ const distribute = (camareiros, camaristas) => {
   return distribute(camareiros, camaristas);
 };
 
+const sortCamareiros = camareiros => camareiros.sort((first, second) => {
+    if(first.nome < second.nome) {
+      return -1;
+    }
+
+    if(first.nome > second.nome) {
+      return 1;
+    }
+    
+    return 0;
+  });
+
+
 const printResult = (camareiros) => {
   camareiros.forEach((camareiro) => {
     console.log('\n');
@@ -58,7 +71,9 @@ const start = () => {
   let camareiros = buildCamareiros(arrayCamareiros);
   
   const result = distribute(camareiros, camaristas);
-  printResult(result);
+  const sortedResult = sortCamareiros(result);
+
+  printResult(sortedResult);
 };
 
 start();
