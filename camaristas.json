@@ -1,8 +1,258 @@
 [
-  "pedro jose",
-  "marco antônio",
-  "marcelo costa",
-  "juvenal da silva",
-  "joh snow"
+  {
+    "nome": "Luisa Vieira",
+    "ano": 1,
+    "turma": "A"
+  },
+  {
+    "nome": "Anna Lua Miranda",
+    "ano": 1,
+    "turma": "B"
+  },
+  {
+    "nome": "Julia Pantel",
+    "ano": 1,
+    "turma": "B"
+  },
+  {
+    "nome": "Ester Alcantara",
+    "ano": 1,
+    "turma": "B"
+  },
+  {
+    "nome": "Barbara Leal",
+    "ano": 1,
+    "turma": "C"
+  },
+  {
+    "nome": "Bartira Furtado",
+    "ano": 1,
+    "turma": "D"
+  },
+  {
+    "nome": "Carolina Abreu",
+    "ano": 1,
+    "turma": "D"
+  },
+  {
+    "nome": "Marica Clara Benevides",
+    "ano": 1,
+    "turma": "E"
+  },
+  {
+    "nome": "Isabela Limp",
+    "ano": 1,
+    "turma": "E"
+  },
+  {
+    "nome": "Bruna Vilela",
+    "ano": 1,
+    "turma": "E"
+  },
+  {
+    "nome": "Giovanna Rocha",
+    "ano": 1,
+    "turma": "E"
+  },
+  {
+    "nome": "Maria Antonia",
+    "ano": 1,
+    "turma": "E"
+  },
+  {
+    "nome": "Bruna Bitar",
+    "ano": 1,
+    "turma": "F"
+  },
+  {
+    "nome": "Pedro Xavier",
+    "ano": 1,
+    "turma": "F"
+  },
+  {
+    "nome": "Carolina Martins",
+    "ano": 1,
+    "turma": "G"
+  },
+  {
+    "nome": "Victória Ribas",
+    "ano": 1,
+    "turma": "G"
+  },
+  {
+    "nome": "Pietra Araújo",
+    "ano": 1,
+    "turma": "G"
+  },
+  {
+    "nome": "Pedro Henrique",
+    "ano": 1,
+    "turma": "G"
+  },
+  {
+    "nome": "Ana Luiza Café",
+    "ano": 1,
+    "turma": "G"
+  },
+  {
+    "nome": "Lucas Valente",
+    "ano": 1,
+    "turma": "G"
+  },
+  {
+    "nome": "Gulherme Gertudes",
+    "ano": 1,
+    "turma": "G"
+  },
+  {
+    "nome": "Tiago Noleto",
+    "ano": 1,
+    "turma": "G"
+  },
+  {
+    "nome": "Evelyn Alves",
+    "ano": 2,
+    "turma": "A"
+  },
+  {
+    "nome": "Maria Diniz",
+    "ano": 2,
+    "turma": "A"
+  },
+  {
+    "nome": "Eduardo Farias",
+    "ano": 2,
+    "turma": "A"
+  },
+  {
+    "nome": "Luisinho",
+    "ano": 2,
+    "turma": "A"
+  },
+  {
+    "nome": "Vitor Hideki",
+    "ano": 2,
+    "turma": "A"
+  },
+  {
+    "nome": "Beatriz Araújo",
+    "ano": 2,
+    "turma": "B"
+  },
+  {
+    "nome": "Victor Campelo",
+    "ano": 2,
+    "turma": "B"
+  },
+  {
+    "nome": "Gabriel Franca",
+    "ano": 2,
+    "turma": "B"
+  },
+  {
+    "nome": "Isadora Pimenta",
+    "ano": 2,
+    "turma": "C"
+  },
+  {
+    "nome": "Luiza de Oliveira Victorino",
+    "ano": 2,
+    "turma": "C"
+  },
+  {
+    "nome": "Letícia Rakaki",
+    "ano": 2,
+    "turma": "C"
+  },
+  {
+    "nome": "Yasmin Melech",
+    "ano": 2,
+    "turma": "C"
+  },
+  {
+    "nome": "Jessica Carvalho",
+    "ano": 2,
+    "turma": "C"
+  },
+  {
+    "nome": "Maria Dazia Mesquita",
+    "ano": 2,
+    "turma": "C"
+  },
+  {
+    "nome": "Felipe Direito",
+    "ano": 2,
+    "turma": "C"
+  },
+  {
+    "nome": "Guilherme de almeida Vieira",
+    "ano": 2,
+    "turma": "C"
+  },
+  {
+    "nome": "Rafael Nascimento",
+    "ano": 2,
+    "turma": "C"
+  },
+  {
+    "nome": "Alice Vasconcelos",
+    "ano": 2,
+    "turma": "E"
+  },
+  {
+    "nome": "Ana Giulia",
+    "ano": 2,
+    "turma": "E"
+  },
+  {
+    "nome": "Heitor Vasconcelos",
+    "ano": 2,
+    "turma": "E"
+  },
+  {
+    "nome": "Henrique Brandão",
+    "ano": 2,
+    "turma": "F"
+  },
+  {
+    "nome": "Palloma Roberta",
+    "ano": 2,
+    "turma": "F"
+  },
+  {
+    "nome": "Bárbara Ziler",
+    "ano": 2,
+    "turma": "F"
+  },
+  {
+    "nome": "João Victor Bicca",
+    "ano": 3,
+    "turma": "A"
+  },
+  {
+    "nome": "João Vitor Szerwinsk",
+    "ano": 3,
+    "turma": "A"
+  },
+  {
+    "nome": "Guilherme Seixas",
+    "ano": 3,
+    "turma": "A"
+  },
+  {
+    "nome": "Amanda Tavares",
+    "ano": 3,
+    "turma": "A"
+  },
+  {
+    "nome": "Felipe Wanderley",
+    "ano": 3,
+    "turma": "A"
+  },
+  {
+    "nome": "Artur Reis",
+    "ano": 3,
+    "turma": "A"
+  }
 ]
 

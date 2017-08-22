@@ -57,9 +57,9 @@ const sortCamareiros = camareiros => camareiros.sort((first, second) => {
 const printResult = (camareiros) => {
   camareiros.forEach((camareiro) => {
     console.log('\n');
-    console.log(`O camareiro(a): ${camareiro.nome}\n`);
+    console.log(`O camareiro(a): ${camareiro.nome} deverá dedicar suas orações para:\n`);
     camareiro.protegidos.forEach((protegido) => {
-      console.log(`\t-${protegido}`);
+      console.log(`\t-${protegido.nome} (${protegido.ano}o ${protegido.turma})`);
     });
   });
 };
